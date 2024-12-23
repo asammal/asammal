@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asammal
 - 👀 I’m interested in learning new technologies
-- 🌱 I’m currently learning Apache Flink
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on https://www.linkedin.com/in/alka-sammal-015001a8/
 
